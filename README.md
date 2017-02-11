@@ -10,4 +10,5 @@
 <li>GET /pipeline/show/{executionId} -- Get execution status </li>
 <li>GET /pipeline/stop/{executionId} -- Stop execution </li>
 </ul>
+Test config is in config/pipeline.yml.
 
